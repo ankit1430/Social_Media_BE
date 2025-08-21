@@ -2,8 +2,6 @@
 
 An Instagram-like social media application built to practice system design, backend development, and database schema design. This project follows a structured SDLC approach, covering **Requirement Analysis**, **System Design**, **Implementation**, **Testing**, **Deployment**, and **Maintenance**.  
 
-![Workflow](./Project_WorkFlow.png)  
-
 ---
 
 ## 📌 Features  
